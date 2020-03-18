@@ -39,3 +39,5 @@ Seasonal weather analysis for Oahu island based on a comparison of precipitation
  2. In addition of statistical summery, various features and plots may help us better analyze the seasonal weather. For example, line plots would be able to  provide quick and easy way to show time-varying. Histogram plots would tell us frequency of precipitation as well as temperature for both December and Jane.
 
  3. For seasonal analysis, we need filter more detail precipitation and temperatures for Spring and Autumn. 
+ 
+ - **Shared findings in ![climate_analysis.ipynb]**
