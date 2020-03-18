@@ -40,4 +40,4 @@ Seasonal weather analysis for Oahu island based on a comparison of precipitation
 
  3. For seasonal analysis, we need filter more detail precipitation and temperatures for Spring and Autumn. 
  
- - **Shared findings in ![climate_analysis.ipynb]**
+ - **Shared findings in ![climate_analysis.ipynb](/climate_analysis.ipynb)**
